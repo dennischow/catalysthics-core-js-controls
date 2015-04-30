@@ -1,2 +1,6 @@
-# catalysthics-core-js-controls
-part of a webapp core controls written in javascript
+# Core Javascript Controls from Catalysthics
+
+## Part of a webapp core features/controls written in javascript.
+
+Demonstrating part of my skill-set in front-end development.
+
